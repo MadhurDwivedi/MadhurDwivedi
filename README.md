@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/user/settings](https://app.netlify.com/user/settings)
-
 - 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **madhurdwivedi123@gmail.com**
