@@ -18,6 +18,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/madhur-dwivedi-616646201/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhur dwivedi" width="40" height="30"/></a>
+  <a href="https://www.hackerrank.com/profile/madhurdwivedi123" target="_blank" rel="noreferrer"><img align="center" src="https://iconscout.com/free-icon/hackerrank-3521478" alt="madhur dwivedi" width="40" height="30"/></a>
+  <a href="https://www.naukri.com/mnjuser/profile" target="_blank" rel="noreferrer"><img align="center" src="https://www.naukri.com/popups/naukri/dec06/index3.htm" alt="madhur dwivedi" width="40" height="30"/></a>
+  <a href="https://unstop.com/u/Madhurdwivedi" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhur dwivedi" width="40" height="30"/></a>
+  <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-jobseeker-profile--profile-one-frontend" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhur dwivedi" width="40" height="30"/></a>
+  <a href="https://clubs.internshala.com/member/madhurdwivedi/?source=header_desktop" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhur dwivedi" width="40" height="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3> <p align="left"> 
@@ -37,14 +42,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhurdwivedi&show_icons=true&locale=en&layout=compact" alt="madhurdwivedi" /></p>
-
-
-
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhurdwivedi&show_icons=true&locale=en" alt="madhurdwivedi" /></p>
