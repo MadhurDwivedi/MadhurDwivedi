@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
-- 🔭 I’m currently working on **PHP, React.js, Next.js, Nodejs, Mongodb & SQL.**
+- 🔭 I’m currently working on **Python, PHP, React.js, Next.js, Nodejs, Mongodb & SQL.**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Nodejs, Mongodb, PHP, React.js, SQL, MS-Word, C, C++.**
+- 💬 Ask me about **HTML, CSS, Javascript, Nodejs, Mongodb, PHP, React.js, SQL, MS-Word, C, C++, Python.**
   
 - 💬 IMSEC Student having a good **Leadership Skills, Teamwork Skills and Communicational Skills.**
 
@@ -23,6 +23,7 @@
 <h3 align="left">Languages and Tools:</h3> <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/python/python_intro.asp" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&psig=AOvVaw20sZe6LsBEofhbZNozeX9p&ust=1734349940224000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOC_8ZPbqYoDFQAAAAAdAAAAABAK" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
