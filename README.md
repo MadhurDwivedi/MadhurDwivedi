@@ -1,17 +1,24 @@
 <h1 align="center">Hi, I'm Madhur Dwivedi</h1> 
-<h3 align="center">A passionate Data Engineer and Full Stack Developer</h3>
+<h3 align="center">A passionate Data Engineer and Software Developer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=madhurdwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="madhurdwivedi" /> 
 </p>
 
 - 🌱 I’m currently learning **Cloud Data Engineering and Advanced ETL Design.**
+  
 - 🔭 I’m currently working with **Azure, Databricks, ADF, Power BI, PySpark, SQL.**
+  
 - 🚀 Hands-on with building **real-time dashboards and automated data pipelines.**
+  
 - ⚙️ Experienced in developing **MERN stack web applications and RESTful APIs.**
+  
 - 📊 Proficient in tools like **Git, Postman, VS Code, and Agile-Scrum workflow.**
+  
 - 💬 IMSEC Student having a good **Leadership Skills, Teamwork Skills and Communicational Skills.**
+  
 - 💬 Skills in **Article Writing and Content Writing.**
+  
 - 📫 How to reach me **madhurdwivedi123@gmail.com**
 
 ---
